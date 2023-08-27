@@ -28,7 +28,7 @@ Use the A key to move the ball left.
 Use the S key to move the ball backward.
 Use the D key to move the ball right
 
-## Fearures
+## Features
 
 1.Simple and intuitive controls.  
 2.Engaging gameplay that challenges your reflexes and control.  
