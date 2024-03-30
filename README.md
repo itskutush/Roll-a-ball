@@ -40,6 +40,6 @@ Use the D key to move the ball right
 
 https://github.com/itskutush/Roll-a-ball/assets/89831977/1b37d94b-bd67-4381-a52a-0b4d31b8a9b4
 
-Happy gaming! 🎮
+Happy gaming! =) 🎮
 
 
