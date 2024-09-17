@@ -1,6 +1,10 @@
 # Roll-A-Ball Game
 
 Welcome to the Roll-a-Ball game, a simple yet addictive game where you control a ball using the W, A, S, and D keys to collect diamonds scattered throughout the level. Put your reflexes and control skills to the test as you navigate the ball through the environment and aim for a high score!
+## Demo
+
+
+https://github.com/itskutush/Roll-a-ball/assets/89831977/1b37d94b-bd67-4381-a52a-0b4d31b8a9b4
 
 ## Prequisites
 Before you begin, make sure you have the following installed:
@@ -35,10 +39,7 @@ Use the D key to move the ball right
 3.Collectible diamonds to increase your score.  
 4.Responsive ball movement based on user input.
 
-## Demo
 
-
-https://github.com/itskutush/Roll-a-ball/assets/89831977/1b37d94b-bd67-4381-a52a-0b4d31b8a9b4
 
 Happy gaming! =) 🎮
 
